@@ -7,7 +7,7 @@
   <br/>
   While (studying){<br/>
   Basic knowledg: C, C# (for Unity), HTML5, CSS and JavaScript;<br/>
-  Ongoing: Flutter, Java and C# (for Unity);<br/>
+  Ongoing: Java and C# (for Unity);<br/>
   }<br/>
   
 <!---
