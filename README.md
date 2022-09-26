@@ -1,8 +1,8 @@
 <h1>Hello, my name is Alberto<h1>
   
   if (You see this page){<br/>
-  I'm interested in mobile development and also game programming, planning to be a game dev.<br>
-  As a computer cience student, at IFCE, i'm focusing in get better with my dev skills.<br/>
+  I'm interested in Java and also game development, planning to be a game dev.<br>
+  As a computer science student, at IFCE, i'm focusing in get better with my dev skills.<br/>
   }<br/>
   <br/>
   While (studying){<br/>
