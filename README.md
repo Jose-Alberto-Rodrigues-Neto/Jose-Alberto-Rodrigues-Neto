@@ -11,10 +11,10 @@
   <div style="display: inline_block">
     <br>
   <img align="center" alt="Albertp-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Albertp-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Albertp-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Albertp-GameMakerStudio2" height="45" width="45" src="https://i.imgur.com/4FEZwIp.png" />    
-  <img align="center" alt="Albertp-Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Albertp-HTML5" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Albertp-JavaScript" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Albertp-GameMakerStudio2" height="48" width="48" src="https://i.imgur.com/4FEZwIp.png" />    
+  <img align="center" alt="Albertp-Java" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     
 
           
