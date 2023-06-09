@@ -8,11 +8,6 @@
 
    </div>
   
-  <div align="center">
-  
-  ![Snake animation](https://github.com/Jose-Alberto-Rodrigues-Neto/Jose-Alberto-Rodrigues-Neto/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
   <div style="display: inline_block">
     <br>
