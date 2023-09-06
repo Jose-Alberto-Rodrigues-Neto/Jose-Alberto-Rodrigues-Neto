@@ -11,13 +11,19 @@
   
   <div style="display: inline_block">
     <br>
-      <img align="center" alt="Albertp-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      <img align="center" alt="Albertp-Java" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    
-
-          
-    
+      <img align="center" alt="Alberto-Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img align="center" alt="Alberto-Java" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
+
+  <div style="display: inline_block">
+    <br>
+  <a href="https://www.linkedin.com/in/josé-alberto-rodrigues-neto-7938b3235/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=round-square&logo=Linkedin&logoColor=white" /></a>
+  
+  <a href="https://drive.google.com/file/d/103wwxNxyZnFwNrDylaVVGBkmpRr8Hmc1/view?usp=sharing" alt="Curriculum">
+  <img src="https://img.shields.io/badge/-Curriculum-909694?style=round-squaree" /></a>  
+  </div>  
+  
   
   
 
