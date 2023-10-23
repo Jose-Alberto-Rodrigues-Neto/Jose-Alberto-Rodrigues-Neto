@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f50270&size=32&center=false&vCenter=true&width=900&lines=Hi,+my+name+is+José+Alberto+Rodrigues+Neto.;I'm+from+Aquiraz,+CE.;I'm+studying+Computer+Science+at+IFCE.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f50270&size=32&center=false&vCenter=true&width=900&lines=Hi,+my+name+is+José+Alberto+Rodrigues+Neto.;I'm+from+Aquiraz,+CE.;I'm+studying+Computer+Science+at+UFC.;)](https://git.io/typing-svg)
   
 
  <div>
