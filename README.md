@@ -19,11 +19,6 @@
   <a href="https://www.linkedin.com/in/josé-alberto-rodrigues-neto-7938b3235/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=round-square&logo=Linkedin&logoColor=white" /></a>
   
-  <a href="https://drive.google.com/file/d/1Kc5Co_liPiaKieXJLggZO88OSSBIlWj6/view?usp=drivesdk" alt="Curriculum">
-  <img src="https://img.shields.io/badge/-Curriculum-909694?style=round-squaree" /></a>  
-  </div>  
-  
-  
   
 
 <!---
