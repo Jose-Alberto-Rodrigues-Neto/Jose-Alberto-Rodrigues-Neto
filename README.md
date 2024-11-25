@@ -1,7 +1,7 @@
 # About me
 I am José Alberto Rodrigues Neto, a passionate software developer currently pursuing a Bachelor’s in Computer Science at the Federal University of Ceará (expected graduation: 2026). With experience in both Front-End and Back-End development, I aim to build efficient, maintainable, and readable solutions that stand the test of time.
 
-## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jose-alberto-rodrigues-neto) 
 
 # 💻 Tech Stack:
